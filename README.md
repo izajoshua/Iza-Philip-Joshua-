@@ -77,7 +77,9 @@
 ---
 
 ## ✨ Inspirational Quote
-> *"Commit to the Lord whatever you do, and He will establish your plans." — Proverbs 16:3*
+“Steady in the Storm”
+“I don’t rush in success or break in struggle — I rise by leaning on God’s strength.”
+Isaiah 40:31
 
 ---
 
