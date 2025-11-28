@@ -78,6 +78,8 @@
 
 ## ✨ Inspirational Quote
 “Steady in the Storm”
+
+
 “I don’t rush in success or break in struggle — I rise by leaning on God’s strength.”
 Isaiah 40:31
 
