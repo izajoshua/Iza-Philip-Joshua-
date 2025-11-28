@@ -68,7 +68,8 @@
 ---
 
 ## 🧠 Currently Learning
-- Advanced SQL  
+- Advanced SQL
+- Amazon web servies (AWS)
 - Machine Learning Basics  
 - Predictive Analytics  
 - DAX in Power BI  
