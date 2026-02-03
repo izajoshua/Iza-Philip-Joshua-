@@ -4,7 +4,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 Pursuing **Data Science at Imarticus Learning** and Completed **PGD in Business Intelligence And Analytics**
+- 🎓 Completed **Data Science at Imarticus Learning** and Completed **PGD in Business Intelligence And Analytics**
 - 📊 Passionate about **Data Analytics, Business Intelligence, and AI-driven insights**
 - 💡 Skilled in **SQL, Python, Power BI, Data Cleaning, Excel and Business Analytics**
 - 🧠 Exploring **EDA, Visualization**   
